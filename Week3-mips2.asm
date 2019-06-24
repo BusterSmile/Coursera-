@@ -1,4 +1,4 @@
- # ×Ö·û´®²éÕÒ±È½Ï
+ # å­—ç¬¦ä¸²æŸ¥æ‰¾æ¯”è¾ƒ
  .data
  
 first:      .asciiz "Please Enter Your String (within 100 characters): "
